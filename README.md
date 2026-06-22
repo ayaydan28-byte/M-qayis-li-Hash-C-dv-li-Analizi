@@ -1,48 +1,48 @@
-# Comparative Hash Table Analysis
+# Müqayisəli Hash Cədvəli Analizi
 
-## Project Information
-Subject: Data Structures and Algorithms  
-Topic: Comparative Hash Table Analysis  
-Student: Aydan Abdullazade  
-Instructor: Kamran Nematov  
+## Layihə Məlumatları
+Fənn: Verilənlərin Strukturu və Alqoritmlər
+Mövzu: Müqayisəli Hash Cədvəli Analizi
+Tələbə: Aydan Abdullazadə
+Müəllim: Kamran Nəmatov
 
-## Project Description
-This project compares different hash table collision resolution techniques and analyzes their performance.
+## Layihənin Təsviri
+Bu layihədə hash cədvəllərində toqquşmaların (collision) həlli üçün istifadə olunan müxtəlif üsullar müqayisə edilir və onların performansı analiz olunur.
 
-Implemented methods:
+İcra edilmiş üsullar:
 
-- Chaining Method
-- Linear Probing
-- Double Hashing
+- Chaining metodu
+- Linear Probing metodu
+- Double Hashing metodu
 
-## Files
+## Fayllar
 
-- main.cpp → Main program execution
-- chaining.cpp → Chaining implementation
-- linear.cpp → Linear probing implementation
-- doublehash.cpp → Double hashing implementation
-- comparison.cpp → Performance comparison and analysis
+- main.cpp → Əsas proqramın işə salınması
+- chaining.cpp → Chaining metodunun realizasiyası
+- linear.cpp → Linear Probing metodunun realizasiyası
+- doublehash.cpp → Double Hashing metodunun realizasiyası
+- comparison.cpp → Performans müqayisəsi və analiz
 
-## Comparison Criteria
+## Müqayisə Meyarları
 
-The project compares algorithms based on:
+Layihədə alqoritmlər aşağıdakı kriteriyalar üzrə müqayisə edilir:
 
-- Insertion speed
-- Search speed
-- Deletion performance
-- Collision handling efficiency
-- Memory usage
+- Məlumat əlavə etmə sürəti
+- Axtarış sürəti
+- Silmə performansı
+- Toqquşmaların idarə olunma effektivliyi
+- Yaddaş istifadəsi
 
-## Objective
+## Məqsəd
 
-To analyze which hashing technique performs better under different conditions and understand advantages and disadvantages of each method.
+Müxtəlif hash metodlarının fərqli şəraitlərdə necə işlədiyini araşdırmaq, hansının daha effektiv olduğunu müəyyən etmək və hər metodun üstünlükləri ilə çatışmazlıqlarını öyrənmək.
 
-## Technologies Used
+## İstifadə olunan texnologiyalar
 
 - C++
 - Visual Studio Code
 - GitHub
 
-## Conclusion
+## Nəticə
 
-Different hashing techniques perform differently depending on data size and collision rate. This project demonstrates practical comparison between these methods.
+Müxtəlif hash texnikaları verilənlərin həcmi və toqquşma səviyyəsindən asılı olaraq fərqli nəticələr göstərir. Bu layihə həmin metodların praktik müqayisəsini aparmağa və performans fərqlərini anlamağa imkan yaradır.
